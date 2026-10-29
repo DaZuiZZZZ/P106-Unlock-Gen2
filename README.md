@@ -4,6 +4,8 @@
 
 这是一个面向 NVIDIA P106 系列矿卡的 PCIe Gen2 解锁工具。
 
+![运行截图](assets/screenshot.png)
+
 支持设备：
 
 | Device ID | 型号 |
